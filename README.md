@@ -1,8 +1,9 @@
-#Random Password Generator
+# Random Password Generator
 
 This python script generates random password as per the strength of password required.
 
 It takes input from user to select the strength.
+
 
 Weak Strength : consist of Upper Case(A - Z) and Lower Case (a - z) alphabets.
 
